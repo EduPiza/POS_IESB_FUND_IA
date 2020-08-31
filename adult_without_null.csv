@@ -1,4 +1,4 @@
-Idade,Tipo_emprego,Peso_socio_ecn,Instrucao,Cod_instr,Estado_civil,Ocupacao,Moradia,Raca,Sexo,Ganho_capital,Perda_capital,Horas_trab_semanais,Pais-origem,Renda
+Idade,Tipo_emprego,Peso_socio_ecn,Instrucao,Cod_instr,Estado_civil,Ocupacao,Moradia,Raca,Sexo,Ganho_capital,Perda_capital,Horas_trab_semanais,Pais_origem,Renda
 39,State-gov,77516,Bachelors,13,Never-married,Adm-clerical,Not-in-family,White,Male,2174,0,40,United-States,<=50K
 50,Self-emp-not-inc,83311,Bachelors,13,Married-civ-spouse,Exec-managerial,Husband,White,Male,0,0,13,United-States,<=50K
 38,Private,215646,HS-grad,9,Divorced,Handlers-cleaners,Not-in-family,White,Male,0,0,40,United-States,<=50K
